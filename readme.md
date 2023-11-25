@@ -5,5 +5,5 @@
 Language: Python
 API: Pytorch
 
-# Instruction
+# Instructions
 
